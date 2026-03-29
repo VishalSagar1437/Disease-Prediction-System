@@ -1,0 +1,10 @@
+asgiref
+Django
+joblib
+numpy
+psycopg2-binary
+pytz
+scikit-learn
+scipy
+sqlparse
+threadpoolctl
